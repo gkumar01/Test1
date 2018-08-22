@@ -4,12 +4,7 @@
 1. install bedtools : 
 sudo apt-get install bedtools
 
-2. Python package installation:\n
-pip install numpy \n
-pip install pysam \n
-pip install pybedtools \n
-pip install pandas \n
-
+2. Install Python packages numpy, pysam, pybedtools, pandas 
 
 #3. Input files: 
 1. TEST1.bam : aligned read bam file
